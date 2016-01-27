@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="baza_jStorage.xsl"?>
+<leki>
+
+	<lek kategoria="układ sercowo-naczyniowy">
+	<nazwa>Accupro</nazwa>	
+	<sklad>Quinaprilum</sklad>
+	<postac>tabletki powlekane</postac>
+	<specjalnosci>kardiologia, medycyna rodzinna</specjalnosci>
+	<dzialanie>obniża ciśnienie tętnicze krwi</dzialanie>
+	</lek>
+	
+	<lek kategoria="układ sercowo-naczyniowy">
+	<nazwa>Concor Cor</nazwa>
+	<sklad>Bisoprololi fumaras</sklad>
+	<postac>tabletki powlekane</postac>
+	<specjalnosci>kardiologia</specjalnosci>
+	<dzialanie>zwalnia czynność serca, zwiększa tolerancję wysiłku</dzialanie>
+	</lek>
+
+	<lek kategoria="układ sercowo-naczyniowy">
+	<nazwa>Tertensif SR</nazwa>
+	<sklad>Indapamidum</sklad>
+	<postac>tabletki o przedłużonym uwalnianiu</postac>
+	<specjalnosci>kardiologia, medycyna rodzinna</specjalnosci>
+	<dzialanie>obniża ciśnienie tętnicze krwi, moczopędne</dzialanie>
+	</lek>
+
+	<lek kategoria="przeciwinfekcyjne">
+	<nazwa>Zinnat</nazwa>
+	<sklad>Cefuroximum</sklad>
+	<postac>tabletki granulat do przygotowania zawiesiny doustnej</postac>
+	<specjalnosci>choroby płuc, urologia, dermatologia i wenerologia</specjalnosci>
+	<dzialanie>antybiotyk, bakteriobójcze</dzialanie>
+	</lek>
+
+	<lek kategoria="przeciwinfekcyjne">
+	<nazwa>Amoksiklav</nazwa>
+	<sklad>Amoxicillinum, Acidum clavulanicum</sklad>
+	<postac>tabletki granulat do przygotowania zawiesiny doustnej</postac>
+	<specjalnosci>choroby płuc, urologia, dermatologia i wenerologia, choroby zakaźne i pasożytnicze, stomatologia ogólna</specjalnosci>
+	<dzialanie>antybiotyk, bakteriobójcze</dzialanie>
+	</lek>
+
+	<lek kategoria="układ mięśniowo-szkieletowy">
+	<nazwa>Diclac</nazwa>
+	<sklad>Diclofenacum natricum</sklad>
+	<postac>tabletki o zmodyfikowanym uwalnianiu</postac>
+	<specjalnosci>ortopedia i traumatologia narządu ruchu, reumatologia, medycyna rodzinna</specjalnosci>
+	<dzialanie>przeciwzapalne, przeciwgorączkowe, przeciwbólowe</dzialanie>
+	</lek>
+
+	<lek kategoria="układ mięśniowo-szkieletowy">
+	<nazwa>Sirdalud</nazwa>
+	<sklad>Tizanidinum</sklad>
+	<postac>tabletki kapsułki o przedłużonym uwalnianiu</postac>
+	<specjalnosci>neurologia, chirurgia ogólna</specjalnosci>
+	<dzialanie>przeciwbólowe, zmniejsza napięcie mięśni</dzialanie>
+	</lek>
+
+</leki>

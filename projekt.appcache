@@ -1,0 +1,13 @@
+CACHE MANIFEST
+
+CACHE:
+
+index.html
+styles.css
+
+NETWORK:
+*
+
+FALLBACK:
+/ offline.html
+
