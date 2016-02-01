@@ -1,0 +1,43 @@
+<html>
+
+<head>
+	<meta charset="UTF-8"></meta>
+	<link rel="stylesheet" href="styles.css"></link>
+	<title>Testy</title>
+
+	<script type="text/javascript" src="scr_testy.js"></script>
+	<script type="text/javascript" src="js.cookie.js"></script>
+	<script type="text/javascript" src="scr_cookies.js"></script>
+	<script type="text/javascript" src="scr_local.js"></script>
+</head>
+<body>
+<header>
+	Projekt indywidualny
+</header>
+
+<section>
+<h2> Ciasteczka </h2>
+    <input type="text" id="val0" class="note_val" value="" style="width: 100px" />
+    <button id="0" class="add_note" onclick="setCookie(id)">Dodaj</button>
+    <input type="text" id="val1" class="note_val" value="" style="width: 100px" />
+    <button id="1" class="add_note" onclick="setCookie(id)">Dodaj</button>
+    <button id="re" class="reset" onclick="delete_cookies()">Reset</button>
+    <button id="sh" class="show" onclick="show_cookies()">Wyświetl ciasteczka</button>
+</section>
+
+<section>
+    <button id="json1" class="example" onclick="przyklad1()">JSON przykład 1</button>
+</section>
+
+<section>
+    <button id="json2" class="example" onclick="przyklad2()">JSON przykład 2</button>
+</section>
+
+<section>
+<h2> HTML5 Local Storage </h2>
+    <button id="json1" class="example" onclick="przyklad3()">JSON przykład 3</button>
+</section>
+    
+
+</body>
+</html>
