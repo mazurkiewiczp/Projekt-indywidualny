@@ -33,10 +33,4 @@ for (var i = 0; i < vals.length; i++) {
 
 var x = document.getElementById("val0");
 var y = document.getElementById("val1");
-var text = '{"name":x,"lastname":y}';
 
-var obj = JSON.parse(text);
-
-document.getElementById("demo").innerHTML =
-obj.name + "<br>" +
-obj.lastname + "<br>";
